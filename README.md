@@ -1,2 +1,4 @@
-# Weather-aware-paddy-Disease-Detection
-The Weather-Aware Paddy Disease Detection System outperforms current paddy disease classification models by providing real time weather information to improve paddy disease diagnosis and more accurate and precise predictions.
+## Welcome to Paddy Doctor Dataset's code repository
+
+This repository contains the Python scripts and IPython notebooks for analyzing and developing Deep Learning based models 
+
